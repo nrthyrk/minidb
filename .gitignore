@@ -1,0 +1,38 @@
+# Compiled Object files
+*.slo
+*.lo
+*.o
+
+# Compiled Dynamic libraries
+*.so
+*.dylib
+
+# Compiled Static libraries
+*.lai
+*.la
+*.a
+
+# Build directories
+/Debug
+/build
+cmake-build-*/
+
+# Mac files
+.DS_Store
+
+# IDE - Xcode
+*.xcodeproj/
+*.xcworkspace/
+xcuserdata/
+
+# IDE - Eclipse
+.project
+.cproject
+.settings/
+.pydevproject
+
+# IDE - VS Code
+.vscode/
+
+# IDE - JetBrains (CLion, etc.)
+.idea/
