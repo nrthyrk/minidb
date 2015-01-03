@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "BPlusTree::InitTree():index_manager.cc">
+      </ContextState>
+      <ContextState
+         contextName = "BPlusTree:index_manager.h">
+      </ContextState>
+      <ContextState
+         contextName = "BPlusTreeNode::SetKeys(int, TKey):index_manager.cc">
+      </ContextState>
+      <ContextState
+         contextName = "Handle::GetFileBlock(std::__1::basic_string&lt;char, std::__1::char_traits&lt;char&gt;, std::__1::allocator&lt;char&gt; &gt;, std::__1::basic_string&lt;char, std::__1::char_traits&lt;char&gt;, std::__1::allocator&lt;char&gt; &gt;, int, int):handle.cc">
+      </ContextState>
+      <ContextState
+         contextName = "Index::name():catalog_manager.h">
+      </ContextState>
+      <ContextState
+         contextName = "BPlusTreeNode::GetValues(int):index_manager.cc">
+      </ContextState>
+      <ContextState
+         contextName = "IndexManager::CreateIndex(SQLCreateIndex&amp;):index_manager.cc">
+      </ContextState>
+      <ContextState
+         contextName = "BPlusTreeNode::SetNextLeaf(int):index_manager.cc">
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>
