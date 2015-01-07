@@ -159,7 +159,8 @@ Example: 	EXEC input.txt;
 *	Views
 *	Complex Select
 
-
+## Design & Implementation
+See [wiki](https://github.com/halfvim/MiniDB/wiki/Design-&-Implementation).
 
 ## Test Runs
-See [wiki](https://github.com/halfvim/MiniDB/wiki/Test-Run)
+See [wiki](https://github.com/halfvim/MiniDB/wiki/Test-Run).
