@@ -226,3 +226,6 @@ In this linked list, all blocks are free to use.
 ##### File Chain: FileHandle
 
 In this chain, each file node has two linked lists, one of which is the current used block chain, and the other is the recycled block chain. When the database engine needs a new block, it first checks whether there is a usable recycled block chain. If not, it queries BlockHandle to ask whether it has a free block to offer. If not again, LRU will come into work.
+
+## Test Runs
+See [wiki](https://github.com/halfvim/MiniDB/wiki/Test-Run)
