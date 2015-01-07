@@ -1,7 +1,7 @@
 MiniDB: Mini Database Engine in C++
 ===================================
 
-This is a course project for Advanced Database Systems. In this course project, a simple database engine is implemented in C++. This database engine implements the most basic SQL operations as well as index on B+ tree.
+A simplified database engine is implemented in C++ here, for the purpose of understanding the underlying details of database system. This database engine implements the most basic SQL operations as well as index on B+ tree.
 
 ## Features
 
