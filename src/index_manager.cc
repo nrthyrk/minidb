@@ -6,6 +6,7 @@
 #include "index_manager.h"
 
 #include <fstream>
+#include <iostream>
 
 #include "record_manager.h"
 #include "exceptions.h"

@@ -7,6 +7,7 @@
 #include "sql_statement.h"
 
 #include <iomanip>
+#include <iostream>
 
 #include <boost/algorithm/string.hpp>
 
