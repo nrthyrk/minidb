@@ -1,9 +1,3 @@
-//  Copyright (c) 2014 Yan Chen.
-//  All rights reserved.
-//
-//  Author: yan.chen.im@gmail.com (Yan Chen)
-
-
 #ifndef MINIDB_SQL_STATEMENT_H_
 #define MINIDB_SQL_STATEMENT_H_
 

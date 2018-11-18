@@ -1,8 +1,3 @@
-//  Copyright (c) 2014 Yan Chen.
-//  All rights reserved.
-//
-//  Author: yan.chen.im@gmail.com (Yan Chen)
-
 #ifndef MINIDB_INTERPRETER_H_
 #define MINIDB_INTERPRETER_H_
 

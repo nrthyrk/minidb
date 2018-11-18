@@ -1,9 +1,3 @@
-//  Copyright (c) 2014 Yan Chen.
-//  All rights reserved.
-//
-//  Author: yan.chen.im@gmail.com (Yan Chen)
-
-
 #ifndef MINIDB_FILE_HANDLE_H_
 #define MINIDB_FILE_HANDLE_H_
 
