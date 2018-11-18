@@ -17,3 +17,5 @@
 # Mac files
 .DS_Store
 /Debug
+
+bin/
