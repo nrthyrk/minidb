@@ -18,4 +18,5 @@
 .DS_Store
 /Debug
 
-bin/
+bin/*
+!bin/readme.md
