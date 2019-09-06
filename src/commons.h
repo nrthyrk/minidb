@@ -3,7 +3,6 @@
 //
 //  Author: yan.chen.im@gmail.com (Yan Chen)
 
-
 #ifndef MINIDB_COMMONS_H_
 #define MINIDB_COMMONS_H_
 

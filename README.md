@@ -9,11 +9,11 @@ To compile, you need two open source C++ libraries installed:
 * boost
 * readline
 
-On Mac OS X, XCode could be used to open "MiniDB.xcodeproj" directly. It's recommended to install the two libraries needed with Homebrew. If you are using readline library not through Homebrew or not with version 6.2.4, you should change the header search path and library search path in XCode to approapriate paths.
+On Mac OS X, XCode could be used to open "MiniDB.xcodeproj" directly. It's recommended to install the two libraries needed with Homebrew. If you are using readline library not through Homebrew or not with version 8.0.1, you will need to change the header search path and library search path of readline in XCode.
 
-On platforms where Eclipse is availbable, the whole folder could be imported to Eclipse without any trouble.
+On platforms where Eclipse is availbable, the whole folder could be imported to Eclipse.
 
-To run it, you need to have global environment variable "HOME" set, the data will be stored at "$HOME/MiniDBData" automatically.
+To run it, you need to have global environment variable "HOME" set, the data will be stored at "$HOME/MiniDBData".
 
 ## Features
 
